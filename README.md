@@ -37,9 +37,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![App Demo](client/public/demo.gif)
+![App Demo](./demo.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a src='https://imgur.com/a/6xB7vgA' title='Video Walkthrough' width='' alt='Video Walkthrough'> Video Walkthrough </a>
 
 ## Notes
 
