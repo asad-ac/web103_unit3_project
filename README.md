@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] User can click event to take them to a page with link to buy tickets!
+- [x] User can click any event to take them to a page with link to buy tickets!
 
 ## Video Walkthrough
 
