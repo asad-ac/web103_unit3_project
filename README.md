@@ -1,8 +1,8 @@
-# WEB103 Project 3 - *Event-Jam*
+# WEB103 Project 3 - *Music-Jam*
 
 Submitted by: **Asad Chaudhry**
 
-About this web app: **Find concerts in the biggest cities across the united states like Chicago, Los Angeles, Miami, and New York. **
+About this web app: **Find concerts in the biggest cities across the United States like Chicago, Los Angeles, Miami, and New York. **
 
 Time spent: **3** hours
 
@@ -31,13 +31,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Nested route to click event shows additional information and link to buy tickets!
+- [x] User can click event to take them to a page with link to buy tickets!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-![App Demo](client/public/demo.gif)
+![App Demo](./demo.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
